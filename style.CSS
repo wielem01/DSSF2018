@@ -1,6 +1,15 @@
 img {
   width 750px;
-  }
-p {color: red}
-p {text:blue; font-size:12px;}
-body {background color:yellow;}
+}
+body {
+  background-color: green;
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-family: "Arial Black", Gadget, sans-serif
+}
+p {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 14px;
+}
